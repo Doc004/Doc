@@ -3,7 +3,7 @@
 <hr>
 
 <h1 align="left">Hi , I'm Ramazon </h1>
--   <h2>Front End Developer</h2>
+      <h2>Front End Developer</h2>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 
